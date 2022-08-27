@@ -1,5 +1,4 @@
-# Bayes-Spaced-Repetition-Scheduling-Algorithm
-Bayes Spaced Repetition Scheduling Algorithm
+Bayesian Spaced Repetition Scheduling Algorithm
 
 
 [matomatical/memograph: Command-line flashcard app with Bayesian scheduling](https://github.com/matomatical/memograph)
